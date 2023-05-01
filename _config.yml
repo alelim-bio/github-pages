@@ -3,3 +3,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: Just another blog.
 author: Alexander Lim
 description: Learning something new everyday.
+
+plugins:
+  - jekyll-include-cache
+
