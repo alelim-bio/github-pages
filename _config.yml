@@ -4,6 +4,4 @@ title: Just another blog.
 author: Alexander Lim
 description: Learning something new everyday.
 
-plugins:
-  - jekyll-include-cache
 
