@@ -4,3 +4,6 @@ author: Alexander Lim
 description: Learning something new everyday.
 
 
+# Reading Files
+include:
+  - _pages
