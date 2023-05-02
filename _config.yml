@@ -1,5 +1,4 @@
-#theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: minima
 title: Just another blog.
 author: Alexander Lim
 description: Learning something new everyday.
